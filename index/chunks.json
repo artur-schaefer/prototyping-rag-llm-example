@@ -1,0 +1,122 @@
+[
+  {
+    "chunk_id": "employee_handbook-1",
+    "doc_id": "employee_handbook",
+    "title": "Employee Handbook",
+    "text": "**1. Working Hours**  \nRegular working hours are 9:00–17:00, Monday to Friday. Flexible hours can be arranged with your manager."
+  },
+  {
+    "chunk_id": "employee_handbook-2",
+    "doc_id": "employee_handbook",
+    "title": "Employee Handbook",
+    "text": "**2. Probation Period**  \nAll new employees complete a probation period of six months. During this time, regular check-ins will be conducted."
+  },
+  {
+    "chunk_id": "employee_handbook-3",
+    "doc_id": "employee_handbook",
+    "title": "Employee Handbook",
+    "text": "**3. Company Values**  \nWe value transparency, responsibility, collaboration, and continuous learning."
+  },
+  {
+    "chunk_id": "employee_handbook-4",
+    "doc_id": "employee_handbook",
+    "title": "Employee Handbook",
+    "text": "**4. Contacts**  \nHR inquiries: hr@schaefer.example  \nIT support: support@schaefer.example  \nFacilities: facilities@schaefer.example"
+  },
+  {
+    "chunk_id": "it_security-1",
+    "doc_id": "it_security",
+    "title": "IT Security Guidelines",
+    "text": "**1. Password Rules**  \nPasswords must contain at least 12 characters and be changed every 180 days. Multi-factor authentication is mandatory."
+  },
+  {
+    "chunk_id": "it_security-2",
+    "doc_id": "it_security",
+    "title": "IT Security Guidelines",
+    "text": "**2. Device Usage**  \nCompany devices may only be used for business purposes. Lost or stolen devices must be reported immediately."
+  },
+  {
+    "chunk_id": "it_security-3",
+    "doc_id": "it_security",
+    "title": "IT Security Guidelines",
+    "text": "**3. Data Protection**  \nConfidential data must not be stored on personal devices or shared via unauthorized channels."
+  },
+  {
+    "chunk_id": "it_security-4",
+    "doc_id": "it_security",
+    "title": "IT Security Guidelines",
+    "text": "**4. Incident Reporting**  \nSecurity incidents must be reported to the IT security team within 24 hours."
+  },
+  {
+    "chunk_id": "remote_work_policy-1",
+    "doc_id": "remote_work_policy",
+    "title": "Remote Work Policy",
+    "text": "**1. Eligibility**  \nEmployees may work remotely up to three days per week, subject to manager approval."
+  },
+  {
+    "chunk_id": "remote_work_policy-2",
+    "doc_id": "remote_work_policy",
+    "title": "Remote Work Policy",
+    "text": "**2. Equipment**  \nSchaefer Corporation provides a laptop and optional monitor. Employees are responsible for a stable internet connection."
+  },
+  {
+    "chunk_id": "remote_work_policy-3",
+    "doc_id": "remote_work_policy",
+    "title": "Remote Work Policy",
+    "text": "**3. Working From Abroad**  \nRemote work from abroad is permitted for up to 20 days per year. All data-protection rules remain fully applicable."
+  },
+  {
+    "chunk_id": "remote_work_policy-4",
+    "doc_id": "remote_work_policy",
+    "title": "Remote Work Policy",
+    "text": "**4. Availability**  \nDuring working hours, employees must remain reachable via Slack and email."
+  },
+  {
+    "chunk_id": "travel_expenses-1",
+    "doc_id": "travel_expenses",
+    "title": "Travel & Expense Guidelines",
+    "text": "**1. Booking Travel**  \nBusiness trips must be booked through the approved travel portal. Economy class is standard for flights under six hours."
+  },
+  {
+    "chunk_id": "travel_expenses-2",
+    "doc_id": "travel_expenses",
+    "title": "Travel & Expense Guidelines",
+    "text": "**2. Accommodation**  \nHotel expenses are reimbursed up to 120 EUR per night, including taxes."
+  },
+  {
+    "chunk_id": "travel_expenses-3",
+    "doc_id": "travel_expenses",
+    "title": "Travel & Expense Guidelines",
+    "text": "**3. Meals**  \nPer-diem allowances follow local regulations. Receipts must be uploaded within ten days after the trip."
+  },
+  {
+    "chunk_id": "travel_expenses-4",
+    "doc_id": "travel_expenses",
+    "title": "Travel & Expense Guidelines",
+    "text": "**4. Reimbursement Process**  \nExpenses are submitted via the HR portal and typically reimbursed within 14 days."
+  },
+  {
+    "chunk_id": "vacation_policy-1",
+    "doc_id": "vacation_policy",
+    "title": "Vacation Policy",
+    "text": "**1. Annual Leave Entitlement**  \nEmployees receive 25 days of paid vacation per year. Leave is accrued monthly during the first year."
+  },
+  {
+    "chunk_id": "vacation_policy-2",
+    "doc_id": "vacation_policy",
+    "title": "Vacation Policy",
+    "text": "**2. Request Procedure**  \nVacation requests must be submitted via the HR portal at least two weeks in advance. Approval is subject to team workload and staffing requirements."
+  },
+  {
+    "chunk_id": "vacation_policy-3",
+    "doc_id": "vacation_policy",
+    "title": "Vacation Policy",
+    "text": "**3. Carryover Rules**  \nUp to 5 unused days may be carried over into the next calendar year and must be used by March 31."
+  },
+  {
+    "chunk_id": "vacation_policy-4",
+    "doc_id": "vacation_policy",
+    "title": "Vacation Policy",
+    "text": "**4. Special Leave**  \nSpecial leave may be granted for personal events such as marriage, relocation, or family emergencies."
+  }
+]
