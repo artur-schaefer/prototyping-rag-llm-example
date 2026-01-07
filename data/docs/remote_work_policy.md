@@ -1,7 +1,7 @@
 # Remote Work Policy
 
 **1. Eligibility**  
-Employees may work from home up to three days per week, subject to manager approval.
+Employees may work remotely for up to three days per week, subject to manager approval.
 
 **2. Equipment**  
 Schaefer Corporation provides a laptop and optional monitor. Employees are responsible for a stable internet connection.
